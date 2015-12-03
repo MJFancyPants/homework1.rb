@@ -73,6 +73,7 @@ puts join_strings("hello", "dolly")
 # Part 4: What is the difference between puts and returning a value?
 # Return does not actually print anything. In order to display a result
 # you would use a method like 'puts' to print the result
+# TEXT TEXT TEXT
 
 
 
